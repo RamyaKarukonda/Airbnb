@@ -1,2 +1,0 @@
-# Airbnb
-Airbnb Booking Price
